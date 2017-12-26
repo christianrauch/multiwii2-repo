@@ -1,0 +1,25 @@
+repositories:
+  src/apriltag2:
+    type: git
+    url: git@github.com:christianrauch/apriltag2.git
+    version: master
+  src/apriltag2_node:
+    type: git
+    url: git@github.com:christianrauch/apriltag2_node.git
+    version: master
+  src/apriltag_msgs:
+    type: git
+    url: git@github.com:christianrauch/apriltag_msgs.git
+    version: master
+  src/msp:
+    type: git
+    url: git@github.com:christianrauch/msp.git
+    version: master
+  src/multiwii_ros2:
+    type: git
+    url: git@github.com:christianrauch/multiwii_ros2.git
+    version: master
+  src/raspicam2_node:
+    type: git
+    url: git@github.com:christianrauch/raspicam2_node.git
+    version: master
